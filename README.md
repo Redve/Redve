@@ -1,4 +1,4 @@
-# Hi there I am Redve 👋
+<h1 align="center"> Hi I am Redve 👋 </h1>
 
 <!--
 **Redve/Redve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
