@@ -1,4 +1,4 @@
-### Hi there i am Redve 👋
+### Hi there I am Redve 👋
 
 <!--
 **Redve/Redve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
