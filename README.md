@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there I am Redve 👋 </h1>
 <h3 align="center"> Second year computer engineering student at KTH</h3>
 
+</br>
+<h4 align="center">Competences</h4>
+
 <!--
 **Redve/Redve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
