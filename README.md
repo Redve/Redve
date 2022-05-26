@@ -7,7 +7,6 @@
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=redve&count_private=true&hide=stars,issues&show_icons=true&theme=nord&count-private=true"/ width = 50%>
-  <img alt="Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redve&layout=compact&hide=glsl,CMake&theme=nord&count-private=true"/ width = 38%>
 </p>
 <!--
 **Redve/Redve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
