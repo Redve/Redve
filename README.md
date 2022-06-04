@@ -2,7 +2,8 @@
 <h3 align="center"> Second year computer engineering student at KTH</h3>
 
 </br>
-<h4 align="center">Competences</h4>
+<h4 align="left">Connect with me</h4>
+<a href="https://www.linkedin.com/in/redve-ahmed/"><img alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"></a>
 
 
 <p align="center">
