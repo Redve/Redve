@@ -1,9 +1,7 @@
 <h1 align="center"> Hi there I am Redve 👋 </h1>
 <h3 align="center"> Second year computer engineering student at KTH</h3>
-
-<h4 align="left">Connect with me</h4>
-<a href="https://www.linkedin.com/in/redve-ahmed/"><img alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width = "50" height = "50"></a>
-
+<h4 align="center">Connect with me</h4>
+<a align = "center" href="https://www.linkedin.com/in/redve-ahmed/"><img alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width = "50" height = "50"></a>
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=redve&count_private=true&hide=stars,issues&show_icons=true&theme=nord&count-private=true"/ width = 50%>
@@ -21,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
