@@ -3,7 +3,7 @@
 
 </br>
 <h4 align="left">Connect with me</h4>
-<a href="https://www.linkedin.com/in/redve-ahmed/"><img alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png"></a>
+<a href="https://www.linkedin.com/in/redve-ahmed/"><img alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width = "100" height = "100"></a>
 
 
 <p align="center">
