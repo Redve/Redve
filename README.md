@@ -1,9 +1,8 @@
 <h1 align="center"> Hi there I am Redve 👋 </h1>
 <h3 align="center"> Second year computer engineering student at KTH</h3>
 
-</br>
 <h4 align="left">Connect with me</h4>
-<a href="https://www.linkedin.com/in/redve-ahmed/"><img alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width = "100" height = "100"></a>
+<a href="https://www.linkedin.com/in/redve-ahmed/"><img alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width = "30" height = "30"></a>
 
 
 <p align="center">
