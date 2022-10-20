@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there I am Redve 👋 </h1>
-<h3 align="center"> Second year computer engineering student at KTH</h3>
+<h3 align="center"> Third year computer engineering student at KTH</h3>
 <h4 align="center">Connect with me</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/redve-ahmed/"><img 
