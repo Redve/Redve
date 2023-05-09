@@ -7,7 +7,7 @@ alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" w
 </p>
 
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=redve&count_private=true&hide=stars,issues&show_icons=true&theme=nord&count-private=true"/ width = 50%>
+<!--  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=redve&count_private=true&hide=stars,issues&show_icons=true&theme=nord&count-private=true"/ width = 50%> -->
 </p>
 
 <!--
