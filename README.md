@@ -1,13 +1,9 @@
 <h1 align="center"> Hi there I am Redve 👋 </h1>
-<h3 align="center"> First year Computer Science master student within Cloud and Network infrastructures @KTH</h3>
+<h3 align="center"> Computer Science master student within Cloud and Network infrastructures @KTH</h3>
 <h4 align="center">Connect with me</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/redve-ahmed/"><img 
 alt="Linkedin" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width = "50" height = "50"></a>
-</p>
-
-<p align="center">
- <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=redve&count_private=true&hide=stars,issues&show_icons=true&theme=nord&count-private=true"/ width = 50%>
 </p>
 
 <!--
